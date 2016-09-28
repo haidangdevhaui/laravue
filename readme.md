@@ -5,8 +5,11 @@ The single page application CRUD using VueJS and Laravel 5.3 be created by haida
 How to use?
 
 Step 1.Run command "npm install".
+
 Step 2.Add vender folder of laravel 5.3.
+
 Step 3.Run command "php artisan serve" or enable Apache.
+
 Step 4.Run command "gulp watch" (for development).
 
 Open browser http://localhost:8000/public
