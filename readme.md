@@ -10,7 +10,7 @@ Step 2.Add vender folder of laravel 5.3.
 
 Step 3.Run command "php artisan serve" or enable Apache.
 
-Step 4.Run command "gulp watch" (for development).
+Step 4.Run command "npm run dev" (for development).
 
 Open browser http://localhost:8000/public
 
