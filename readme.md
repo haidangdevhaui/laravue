@@ -6,7 +6,7 @@ How to use?
 
 Step 1.Run command "npm install".
 
-Step 2.Add vender folder of laravel 5.3.
+Step 2.Run command "composer update".
 
 Step 3.Run command "php artisan serve" or enable Apache.
 
